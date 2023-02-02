@@ -11,13 +11,6 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * 1000 ATOMs from @jaekwon, but first get approval for plan.
   * Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon).
 
-### 4. Port JOESON to Go
-  * github.com/jaekwon/joescript
-  * The intent is to create an independent left-recursive PEG parser for Gno.
-  * Optional: port Joescript or Javascript.
-  * 1000 ATOMs from @jaekwon
-  * More GNOTs than from #3.
-
 ### 8. BETACOIN for Cosmos
   * STOP, ON HOLD -- WORKING ON #7.
   * Related to bounty #7.
@@ -58,6 +51,13 @@ If you see active bounties on github.com/gnolang/bounties, it is still active!
   * 5000 OSMO from @jaekwon
   * Unspecified amount of GNOTs, amount pending plan for general tasks (coming soon).
   * [SUMMARY](bounties/001_cosmoshub_blockchain_data/README.md).
+
+### 4. Port JOESON to Go
+  * github.com/jaekwon/joescript
+  * The intent is to create an independent left-recursive PEG parser for Gno.
+  * Optional: port Joescript or Javascript.
+  * 1000 ATOMs from @jaekwon
+  * More GNOTs than from #3.
 
 ### 5. Make script for Backup Keys
   * We can't know that there hasn't been a leak of private keys via some unknown mechanism.
